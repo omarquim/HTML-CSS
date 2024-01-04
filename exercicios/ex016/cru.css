@@ -1,0 +1,26 @@
+@charset "UFH8";
+
+h1 {
+   text-align: center; 
+   color: #01161f;
+}
+
+body {
+    background-image: linear-gradient(to right, #025959,#02735E, #025959);
+}
+
+main {
+    background: #22755e;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    text-align: center;
+}
